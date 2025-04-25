@@ -24,10 +24,15 @@
 
 ## Hasil
 - Server
+
 ![Server](server.png)
+
 - Mesin-2
+
 ![Mesin-2](mesin2.png)
+
 - Mesin-3
+
 ![Mesin-3](mesin3.png)
 
 > Andika Rahman Teja (5025221022)
